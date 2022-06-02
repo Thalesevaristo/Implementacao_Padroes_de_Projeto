@@ -1,4 +1,4 @@
-# Implementacao_Padroes_de_Projeto
+# Implementacao dos Padrões de Projeto
 Implementação dos Padrões Factory Method e Mediator
 
 ## Factory Method
