@@ -18,7 +18,7 @@ Possui como objetivo intermediar a comunicação entre os componentes do program
 Exemplos:
   - DialogDirector (Interface do Mediator)
   - FontDialogDirector (Mediator Concreto)
-  - Widget ()
-  - ListBox ()
-  - EntryField ()
+  - Widget (Colleague)
+  - ListBox (ConcreteColleague A)
+  - EntryField (ConcreteColleague B)
  
