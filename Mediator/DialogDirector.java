@@ -5,5 +5,7 @@ public abstract class DialogDirector {
   }
   
   public abstract void createWidget();
-  public abstract void widgetChanged();
+  
+  public abstract void widgetChanged(Widget w);
+  
 }
