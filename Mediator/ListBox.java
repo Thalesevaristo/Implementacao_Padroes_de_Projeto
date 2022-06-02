@@ -5,7 +5,8 @@ public class ListBox extends Widget {
   }
   
   public void getSelection() {
-  
+    System.out.println("recuperou a seleção");
   }
+  
   
 }
